@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 typedef struct Job
 {
     char id;
@@ -59,3 +60,5 @@ int main()
     jobSequence(jobs, n);
     return 0;
 }
+
+//this is done
