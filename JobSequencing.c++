@@ -60,5 +60,3 @@ int main()
     jobSequence(jobs, n);
     return 0;
 }
-
-//this is done
