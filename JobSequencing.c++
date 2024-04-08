@@ -48,6 +48,7 @@ void jobSequence(Job jobs[], int n)
         }
     }
 }
+
 int main()
 {
     Job jobs[] = {{'A', 70, 4},
